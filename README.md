@@ -19,7 +19,7 @@ One can start the application by running:
 A sample video output is shown below.
 
 
-![c1_project2_detection_and_tracking](https://github-production-user-asset-6210df.s3.amazonaws.com/47062478/245316770-9590c14f-e931-4e31-9552-0ee66d35500a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230810%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230810T124841Z&X-Amz-Expires=300&X-Amz-Signature=f3cb13f8a7e43e5c4299dab9e58d2cde486a74e556ea867791c307aa8fe3c0ab&X-Amz-SignedHeaders=host&actor_id=55636313&key_id=0&repo_id=652431672)
+![c1_project2_detection_and_tracking](./visuals/245316770-9590c14f-e931-4e31-9552-0ee66d35500a.gif)
 
 
 ---
